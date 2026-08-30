@@ -11,7 +11,7 @@ A new design chat loads this file first. Then the files listed below. Do not loa
 ## Load order
 
 1. **This file**
-2. [`dave-feedback-round3.md`](dave-feedback-round3.md) — Dave's verdict on the 15 rooms. Hard rules, keeps, kills, 2026 techniques.
+2. [`dave-feedback-round3.md`](dave-feedback-round3.md) — Dave's verdict on the 15 rooms. Hard rules, keeps, kills, 2026 techniques, designer persona.
 3. [`copy-lock.md`](copy-lock.md) — public copy, funnel, roles, bios. **Wins** if it conflicts with `visual-directions/_shared.md`.
 4. [`../stage-2/dave-notes.md`](../stage-2/dave-notes.md) — how we got here (Claude 1A–1I + Grok round 1 walk).
 5. [`../rosetta-stone.md`](../rosetta-stone.md) — pointer to Peters-Brain stone (currently v1.5). Then the stone itself if the Peters-Brain repo is reachable.
@@ -53,7 +53,7 @@ Score target: 8–9 / 10. Round 2 scored 2–3.
 
 Round 1 and round 2 both number 01–15. They are **different sets**.
 
-| | Round 1 (`visual-directions/`) | Round 2 (`stage-2/visual-directions/`) |
+| | Round 1 (`visual-directions/`) | Round 2 (`stage-2/visual-directions/`)
 |---|---|---|
 | 01 | Sunday Night (baseline) | Cover Story |
 | 11 | Hot / Cold (split-tone) | The Ribbon — **the keep hook** |
