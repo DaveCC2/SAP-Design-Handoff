@@ -1,9 +1,11 @@
 # Rosetta Stone — Podcast (Solving America's Problems)
 
-**Version:** 1.3
-**Last updated:** 2026-08-29
+**Version:** 1.5
+**Last updated:** 2026-08-30
 **Owner:** Dave Conley
 **Status:** Active — living document
+
+> This file is a **pointer**, not a versioned copy. The single source of truth is `companies/podcast/rosetta-stone.md` in DaveCC2/Peters-Brain. Load that file. Do not maintain a separate version number here — when the stone changes, this pointer changes with it. No combinatorial version juggling.
 
 ---
 
@@ -19,18 +21,21 @@ This file is the single source of truth for the podcast's identity, positioning,
 5. When something changes in reality, update the file and add a changelog entry. Do not silently edit.
 6. The co-host's name is **Jerremy** (two r's). Never Jeremy.
 7. Do not flatten Jerremy and Dave into one house voice. Write to the register named in Section 7.
+8. Preserve the *intent* behind decisions, not just the softened wording. If a line was softened to avoid throwing shade, keep the reason it was softened.
 
 ## How to update this document
 
 1. Make the change in the relevant section.
 2. Bump **Version** (minor for additions/clarifications, major for structural changes).
 3. Set **Last updated** to today's date.
-4. Add one line to the Changelog below: `vX.Y — YYYY-MM-DD — what changed — why`.
-5. Commit to `rosetta-stone.md` in this repo with a message matching the changelog line.
+4. Add one line to the Changelog below: `vX.Y — YYYY-MM-DD — what changed — why`
+5. Commit to `companies/podcast/rosetta-stone.md` in this repo with a message matching the changelog line.
 6. If the change affects downstream work (guest list, social, website), note it in the commit message.
 
 ## Changelog
 
+- **v1.5 — 2026-08-30 —** Section 12 Cultural Touchstone: replaced "Service over career" with "Service as a calling, not a career." Reason: the rejected phrase survived the v1.4 audit and was reintroduced into design copy, causing 30 wrong homepage designs. This is the last instance of that framing in the file.
+- **v1.4 — 2026-08-30 —** Captured chat context that was missing or softened: the explicit reasoning behind rejecting "Service Beats Career" (don't throw shade on people with jobs/careers), the both-and vision (Jerremy runs AND the movement is key), the raw disgust behind "politician is a job," the social-media rebuild failure story, and the "talk is cheap" line. Reason: audit against the source conversation found critical intent that had been dropped or diluted.
 - **v1.3 — 2026-08-29 —** Section 7 expanded with two-register voice guide (Jerremy hot / Dave cold-analytical) drawn from transcripts, plus writing tips for scripts and social. Removed the Descript "For the AI" stub. Reason: voice is now specified from actual words, not a TODO.
 - **v1.2 — 2026-08-28 —** Corrected co-host spelling throughout: Jerremy, never Jeremy. Added usage rule 6. Reason: Dave correction; the one-r spelling is wrong.
 - **v1.1 — 2026-08-28 —** Added version header, usage rules, and this changelog. Section 4 rebuilt around a single named avatar (Jill) with 3AM/3PM split, win-song, loss-song, and listening rhythm, per PSI avatar rigor review. Reason: demographic-range avatar was producing range-messaging; one person is required for "this is for me" copy.
@@ -52,10 +57,12 @@ This file is the single source of truth for the podcast's identity, positioning,
 
 **Vision:** A springboard for freedom and change. The levers of power in America are siloed by special interest and money, and democracy is hindered by what people can buy and influence. We've lost the ability for meritocracy and goodness to seep through where everybody benefits. Civic duty and a lowercase nationalism have devolved. The tree of America needs tender care, fertilizer, and watering to continue for the next 250 years. Because money has such gravity around the ability to make change, the path is to build a big enough community and movement to enable Jerremy's vision of running for office — with a movement already started and excited around him, rather than the standard path of raising money, making promises, and selling your soul. High morals, high conviction, and drive can produce movements that create real change for a great country.
 
+**Vision — both-and, not either/or:** Jerremy will definitely run, and the movement is key to that. It is not a choice between "he runs" and "the movement exists." Both are the point. The movement is what gets him there; running is the destination the movement is built to reach.
+
 **Mission:** Today, it's about creating contacts for Jerremy, educating him beyond his finance world into politics, and raising his visibility in the broader conversation. The method: start with assumptions about a problem, let conversations reshape them, and end each series with a concrete pathway to solve a real, tangible issue in the United States.
 
 **Core Values:**
-- **Service** — the Kennedy ideal: the best and brightest belong in public life, not just finance or tech. "Ask not what your country can do for you — ask what you can do for your country."
+- **Service** — the Kennedy ideal: the best and brightest belong in public life, not just finance or tech. "Ask not what your country can do for you — ask what you can do for your country." *Note on wording:* "not just finance or tech" is deliberate. We are not throwing shade on people with careers or ordinary jobs — plenty of people are happy with jobs and careers. The point is that public service is a *calling*, not that other paths are lesser. Do not sharpen this into an attack on working people.
 - **Integrity** — truth to power, self-funded, unbought.
 - **Authenticity** — real conversations, assumptions tested not defended.
 - **Anti-tribalism** — no team jersey, no nose-holding, participation over apathy.
@@ -66,9 +73,13 @@ This file is the single source of truth for the podcast's identity, positioning,
 
 **Brand Personality:** Professional yet approachable. Conversational, grounded, and real — long-form, plain-spoken, with intellectual depth underneath. We borrow the accessibility of the biggest podcasts but refuse the typecast: no team jersey, no pod-bro energy, no pigeonhole. If you can't quite put your finger on us, that's working. The goal isn't to sound like anyone — it's to create movement, and the end result is action. Jerremy brings the everyman warmth; Dave brings the intellectual rigor.
 
-**Unique Selling Proposition:** We're the only podcast building a political movement on purpose — not exploring topics for entertainment, not politicians running a show, but turning real conversations into a pathway for someone to actually run for office, self-funded and unbought. We don't believe "politician" should be a job you write on your taxes.
+**Unique Selling Proposition:** We're the only podcast building a political movement on purpose — not exploring topics for entertainment, not politicians running a show, but turning real conversations into a pathway for someone to actually run for office, self-funded and unbought. We don't believe "politician" should be a job you write on your taxes. *Raw feeling behind it:* the fact that "politician" is a career you can put on a tax form is, to us, disgusting. Politics as a profession is the disease; the movement is the antidote. Capture the disgust, not just the clean line.
 
 **Tagline:** America's Opportunities: From Conversation to Candidacy
+
+**Tagline origin (do not revert):** "From Conversation to Candidacy" was chosen over "Where Service Beats Career" specifically because we do not want to throw shade on people with careers or jobs. The softened phrasing protects ordinary working people while still elevating service as a calling. Keep that intent intact.
+
+**Guiding principle:** Talk is cheap — watch what people do, not what they say. The show is not just conversation; it is built to produce action. If a piece of content doesn't move someone toward participation, it isn't doing its job.
 
 ## 3. Offerings and Products
 
@@ -84,7 +95,7 @@ This file is the single source of truth for the podcast's identity, positioning,
 
 Early fifties, but looks and acts like she's in her forties. Runs a small business that's climbing toward medium-sized. No kids — didn't want them. Lives between the United States and internationally. Fit, fun, social; she thrives in rooms of other high-flyers like her. Smart, witty, politically minded — stays current on domestic and international affairs. Old-school conservative in the Pat Buchanan mold, but socially liberal, which puts her in the disenfranchised-Trump-supporter camp with aspirations rooted in her earliest political hope: Bill Clinton, back when she was first learning to vote. Her north star is Elizabeth McCord from *Madam Secretary* — a strong woman doing real good in politics with a real agenda. That character is who Jill aspires to be.
 
-**Taste:** wide-ranging. Good dance music, 80s, cool Argentine guitar, upbeat pop with sophistication — a universal black dress of music, good for the day and good for the night. Loves good movies.
+**Taste:** wide-ranging. Good dance music, 80s, cool Argentine guitar, upbeat pop with sophistication — a universal black dress of music, good for the day and the night. Loves good movies.
 
 **Win-song** (when things are going well): the upbeat Argentine guitar, the dance floor, the universal black dress. She turns it up and celebrates.
 
@@ -115,6 +126,8 @@ She is watching the country get purchased while she runs the company that was su
 
 **Tools and Processes:** AI-automated across research, prep, editing, and publishing, getting more sophisticated weekly. 50–60 interviews deep with a growing guest list. Social media rebuilt after one direction failed — now audio-first, video as a toe-dip. No website yet; the Rosetta Stone is meant to fix that. New bot suites coming in to reduce fragility. The back end is a patchwork that works but is too fragile — the goal is stringing the silos into one cohesive system.
 
+**Social rebuild — the failure that caused it:** For a long time the social strategy went down one direction. It didn't work. A lot was learned from that failure, and the whole lane was rebuilt from scratch. Current direction: audio-first, with video as a toe-dip, transitioning fully into audio-first rather than video-first. Do not revert to the failed direction or treat the rebuild as a minor tweak — it was a reset born from a real miss.
+
 ## 6. Case Studies and Testimonials
 
 **Status:** Pinned. No concrete wins documented yet. Guest quality is rising — more high-profile guests — but no measurable results or testimonials to cite. Revisit once the movement produces visible outcomes.
@@ -136,7 +149,7 @@ Two distinct registers that collide on purpose. Jerremy runs hot — hype-man ca
 
 **Dave's voice, in his own words:**
 - Physically stumbles into his sentences, and the stumble is part of the delivery, not noise to clean up: "I, I just, like why do we pay taxes?" / "I, I, I mean, I don't, I, I don't know economics, but I do know math, and that doesn't make any sense."
-- Playful witty sarcasm as the default reaction to absurd numbers or official spin — deploys mock enthusiasm to puncture something: "That's ex- oh, I'm so excited. I got, I got a cake. I got party hats... but the entire cake was on fire."
+- Playful witty sarcasm as the default reaction to absurd numbers or official spin — deploys mock enthusiasm to puncture something: "That's ex- oh, I, I'm so excited. I got, I got a cake. I got party hats... but the entire cake was on fire."
 - Narrates his own gestures because the audio can't carry them, which becomes a bit in itself: "[raises his hands going] 'Ugh.'" / "like the emoji that's like just, just, just the giant shrug."
 - Ends explanatory runs with a tag question inviting agreement rather than a full stop: "...you know?" / "right?" — used constantly, almost a verbal comma.
 - Question style: the "I don't wanna sound dumb, but" entry point into genuinely technical questions — "How do they make money? I, I don't wanna sound dumb on this, but is it, it is all advertising?" He asks how systems work, not just what happened.
@@ -156,7 +169,7 @@ Two distinct registers that collide on purpose. Jerremy runs hot — hype-man ca
 
 ## 8. Company Culture
 
-**Leadership Style:** Dave runs operations and sets the agenda; Jerremy leads on-mic and brings his network. The gap is collaboration — Jerremy is responsive when pulled in, but the default has drifted toward Dave carrying everything. Fix: a weekly 15–20 minute check-in aimed at "what do you actually want this to become," not task updates. Quarterly in-person resets (2–3 days) keep the relationship grounded.
+**Leadership Style:** Dave runs operations and sets the agenda; Jerremy leads on-mic and brings his network. The gap is collaboration — Jerremy is responsive when pulled in, but the default has drifted toward Dave carrying everything. Fix: a weekly 15–20 minute check-in aimed at "what you actually want this to become," not task updates. Quarterly in-person resets (2–3 days) keep the relationship grounded.
 
 **Internal Interactions:** Dave preps, produces, and publishes; Jerremy shows up ready to talk. The check-in exists to keep Jerremy's vision in the room, not just his voice on the mic.
 
@@ -190,4 +203,4 @@ Two distinct registers that collide on purpose. Jerremy runs hot — hype-man ca
 
 **Unique Leadership Philosophy:** The producer leads the operation, the host leads the mic, and neither leads the other. The movement is the product, not the show — and the show exists to serve the movement, not the other way around.
 
-**Cultural Touchstone:** Service over career. The best and brightest belong in public life, not just finance or tech. If you can't put your finger on what we are, that's working — because we're not a type, we're a direction.
+**Cultural Touchstone:** Service as a calling, not a career. The best and brightest belong in public life, not just finance or tech. If you can't put your finger on what we are, that's working — because we're not a type, we're a direction.
