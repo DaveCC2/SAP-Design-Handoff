@@ -82,3 +82,10 @@ A treatment can *place* the block; it cannot fake the content.
 Navigation is **not** an open fill. Design proposes the concept and the labels.
 
 If a gap blocks a design decision, flag it. Do not guess the fills above.
+
+---
+
+## Round 3 output (this round)
+
+Six treatments live in [`treatments/`](treatments/). Named by the visual move. Stills in [`treatments/stills/`](treatments/stills/). This is not the production site.
+
