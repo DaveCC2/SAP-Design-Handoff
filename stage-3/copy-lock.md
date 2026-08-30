@@ -80,7 +80,7 @@ Design may pick among the full headshot folders. Do not invent a face. Do not ci
 
 ## Nav and footer
 
-- **Top nav is three items.** Page names are an open fill. Do not invent a fourth. Do not hide nav.
+- **Navigation is a design problem.** Each treatment proposes a navigation concept and the labels that fit that treatment. Design dictates. Do not leave a blank three-item fill. Do not invent a fourth page unless the treatment needs it. Dave picks later.
 - **Legal footer is simple and human-readable.** Cookie policy, California opt-out, tracking cookies only. No modal, no timer, no "keep/don't keep" popup you have to dismiss.
 - Social URLs live in the footer (or in the social step of the funnel) — never a popup.
 

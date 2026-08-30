@@ -4,12 +4,14 @@ A new design chat loads this file first. Then the files listed below. Do not loa
 
 **Repo:** [DaveCC2/SAP-Design-Handoff](https://github.com/DaveCC2/SAP-Design-Handoff)
 
+**Count lock (2026-08-30):** Six treatments. Not fifteen. Not three. Not eight-to-ten.
+
 ---
 
 ## Load order
 
 1. **This file**
-2. [`dave-feedback-round3.md`](dave-feedback-round3.md) — Dave's verdict on the 15 rooms. Hard rules, keeps, kills, 2026 techniques, the 8–10-treatment command.
+2. [`dave-feedback-round3.md`](dave-feedback-round3.md) — Dave's verdict on the 15 rooms. Hard rules, keeps, kills, 2026 techniques.
 3. [`copy-lock.md`](copy-lock.md) — public copy, funnel, roles, bios. **Wins** if it conflicts with `visual-directions/_shared.md`.
 4. [`../stage-2/dave-notes.md`](../stage-2/dave-notes.md) — how we got here (Claude 1A–1I + Grok round 1 walk).
 5. [`../rosetta-stone.md`](../rosetta-stone.md) — pointer to Peters-Brain stone (currently v1.5). Then the stone itself if the Peters-Brain repo is reachable.
@@ -33,13 +35,15 @@ Index of all 15 rooms + Dave's one-line on each: [`../stage-2/visual-directions/
 
 ## What you are making
 
-**Eight to ten treatments. Not fifteen. Not three.**
+**Six treatments. Not fifteen. Not three. Not eight-to-ten.**
 
-Name each one by the visual *move* ("scroll-reveal faces," "kinetic headline," "depth field") — not by an evocative room name. Force divergence. Different rooms, not tighter versions of Sunday Night.
+Name each one by the visual *move* ("scroll-reveal faces," "kinetic headline," "depth field") — not by an evocative room name. Force divergence. Different rooms, not tighter versions of Sunday Night. Color swap is not a different move.
 
 Every treatment must answer: **what stops the scroll in one to three seconds?**
 
-Output per treatment: feeling, layout logic, key visual choice (the actual technique), palette, type, one hero mock (phone + desktop), hard-fail check. **No production code.**
+**Navigation:** Design dictates. Each treatment places a navigation concept that fits that visual move and proposes the labels. Do not leave a blank "three unnamed items" fill. Do not invent extra pages beyond what the treatment needs. Dave picks later.
+
+Output per treatment: feeling, layout logic, key visual choice (the actual technique), palette, type, navigation concept + proposed labels, one hero mock (phone + desktop), hard-fail check. **No production code.**
 
 Score target: 8–9 / 10. Round 2 scored 2–3.
 
@@ -63,11 +67,10 @@ The co-host is **Jerremy** (two r's). Dave's round-3 notes sometimes type "Jerem
 
 ---
 
-## Open fills (do not invent)
+## Open fills (do not invent these)
 
-Leave these visibly marked until Dave names them. A treatment can *place* the block; it cannot fake the content.
+A treatment can *place* the block; it cannot fake the content.
 
-- Top nav — three items; page names not chosen
 - Cookie policy URL and California opt-out URL (footer must be ready for them)
 - Newsletter destination
 - Resources ("coming soon" is allowed)
@@ -76,4 +79,6 @@ Leave these visibly marked until Dave names them. A treatment can *place* the bl
 - Last-three episode titles (pull from Captivate if the tool can; otherwise `[episode]` fills)
 - Email / optional-phone capture destination for the "when you're ready" step
 
-If a gap blocks a design decision, flag it. Do not guess.
+Navigation is **not** an open fill. Design proposes the concept and the labels.
+
+If a gap blocks a design decision, flag it. Do not guess the fills above.
