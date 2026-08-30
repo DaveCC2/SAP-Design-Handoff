@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#8a8f98`  
 **Register:** Put the headphones on. This is a listen, not a landing page.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![Play — phone](stills/09-play-phone.jpg)
+
+**Desktop (1280×800)**
+
+![Play — desktop](stills/09-play-desktop.jpg)
+
 ---
 
 ## Feeling

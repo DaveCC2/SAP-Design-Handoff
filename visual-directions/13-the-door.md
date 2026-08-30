@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#c9a36a`  
 **Register:** The show is the door. The movement is the product.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![The Door — phone](stills/13-the-door-phone.jpg)
+
+**Desktop (1280×800)**
+
+![The Door — desktop](stills/13-the-door-desktop.jpg)
+
 ---
 
 ## Feeling

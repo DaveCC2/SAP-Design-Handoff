@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#c4a574`  
 **Register:** Quiet. Lamp, not rally. Jill's actual listening hour.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![Sunday Night — phone](stills/01-sunday-night-phone.jpg)
+
+**Desktop (1280×800)**
+
+![Sunday Night — desktop](stills/01-sunday-night-desktop.jpg)
+
 ---
 
 ## Feeling

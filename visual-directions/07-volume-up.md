@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#c8102e`  
 **Register:** Loss-song. Defiant, not sad.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![Volume Up — phone](stills/07-volume-up-phone.jpg)
+
+**Desktop (1280×800)**
+
+![Volume Up — desktop](stills/07-volume-up-desktop.jpg)
+
 ---
 
 ## Feeling

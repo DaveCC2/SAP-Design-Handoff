@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#c8102e`  
 **Register:** Service as a calling. Kennedy without the marble.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![The Rule — phone](stills/10-the-rule-phone.jpg)
+
+**Desktop (1280×800)**
+
+![The Rule — desktop](stills/10-the-rule-desktop.jpg)
+
 ---
 
 ## Feeling

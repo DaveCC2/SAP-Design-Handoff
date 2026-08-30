@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#7a8b73`  
 **Register:** Don't tell me. Show me who sat in the chair.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![Proof First — phone](stills/05-proof-first-phone.jpg)
+
+**Desktop (1280×800)**
+
+![Proof First — desktop](stills/05-proof-first-desktop.jpg)
+
 ---
 
 ## Feeling

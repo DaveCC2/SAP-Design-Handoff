@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#c8102e`  
 **Register:** Stranger on the sidewalk. No mystique.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![Shop Sign — phone](stills/02-shop-sign-phone.jpg)
+
+**Desktop (1280×800)**
+
+![Shop Sign — desktop](stills/02-shop-sign-desktop.jpg)
+
 ---
 
 ## Feeling

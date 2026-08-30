@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#d4c4b0`  
 **Register:** Win-song. Argentine guitar. Good for the day and the night.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![Black Dress — phone](stills/08-black-dress-phone.jpg)
+
+**Desktop (1280×800)**
+
+![Black Dress — desktop](stills/08-black-dress-desktop.jpg)
+
 ---
 
 ## Feeling

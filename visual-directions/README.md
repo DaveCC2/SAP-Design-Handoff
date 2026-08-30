@@ -2,7 +2,31 @@
 
 Living briefs for the Solving America's Problems homepage bake-off.
 
-These are **not** the site. They are fifteen complete directions. Dave sits as Jill, picks one, and the other fourteen get deleted. A design LLM should execute **one brief at a time**, not blend them.
+These are **not** the site. They are fifteen complete directions, each with a still of the first viewport (phone + desktop), then feeling / layout / key visual. Dave sits as Jill, picks one, and the other fourteen get deleted. A design LLM should execute **one brief at a time**, not blend them.
+
+## Stills
+
+Phone, 390×844, first viewport. Click through for the full brief (desktop still + copy lock).
+
+| # | Direction | Phone |
+|---|---|---|
+| 01 | [Sunday Night](01-sunday-night.md) | ![Sunday Night](stills/01-sunday-night-phone.jpg) |
+| 02 | [Shop Sign](02-shop-sign.md) | ![Shop Sign](stills/02-shop-sign-phone.jpg) |
+| 03 | [Two Chairs](03-two-chairs.md) | ![Two Chairs](stills/03-two-chairs-phone.jpg) |
+| 04 | [The Sentence](04-the-sentence.md) | ![The Sentence](stills/04-the-sentence-phone.jpg) |
+| 05 | [Proof First](05-proof-first.md) | ![Proof First](stills/05-proof-first-phone.jpg) |
+| 06 | [Briefing](06-briefing.md) | ![Briefing](stills/06-briefing-phone.jpg) |
+| 07 | [Volume Up](07-volume-up.md) | ![Volume Up](stills/07-volume-up-phone.jpg) |
+| 08 | [Black Dress](08-black-dress.md) | ![Black Dress](stills/08-black-dress-phone.jpg) |
+| 09 | [Play](09-play.md) | ![Play](stills/09-play-phone.jpg) |
+| 10 | [The Rule](10-the-rule.md) | ![The Rule](stills/10-the-rule-phone.jpg) |
+| 11 | [Hot / Cold](11-hot-cold.md) | ![Hot / Cold](stills/11-hot-cold-phone.jpg) |
+| 12 | [Thumb](12-thumb.md) | ![Thumb](stills/12-thumb-phone.jpg) |
+| 13 | [The Door](13-the-door.md) | ![The Door](stills/13-the-door-phone.jpg) |
+| 14 | [No Jersey](14-no-jersey.md) | ![No Jersey](stills/14-no-jersey-phone.jpg) |
+| 15 | [01 · 02 · 03](15-spine.md) | ![01 02 03](stills/15-spine-phone.jpg) |
+
+All stills live in [`stills/`](stills/). Desktop captures sit next to the phone files.
 
 ## How to use
 
@@ -14,30 +38,11 @@ These are **not** the site. They are fifteen complete directions. Dave sits as J
 
 If a brief and `_shared.md` conflict, `_shared.md` wins. If `_shared.md` and the stone conflict on identity, the stone wins — except public page copy, which is locked in `_shared.md`.
 
-## The fifteen
-
-| # | Brief | Feeling, one line |
-|---|---|---|
-| 01 | [Sunday Night](01-sunday-night.md) | A lamp, not a rally. |
-| 02 | [Shop Sign](02-shop-sign.md) | Painted on the glass. |
-| 03 | [Two Chairs](03-two-chairs.md) | You walked in mid-conversation. |
-| 04 | [The Sentence](04-the-sentence.md) | One breath. That's the pitch. |
-| 05 | [Proof First](05-proof-first.md) | Don't tell me. Show me who sat. |
-| 06 | [Briefing](06-briefing.md) | A serious woman, a real agenda. |
-| 07 | [Volume Up](07-volume-up.md) | Loss-song. Defiant, not sad. |
-| 08 | [Black Dress](08-black-dress.md) | Win-song. Good for day and night. |
-| 09 | [Play](09-play.md) | This is a listen, not a landing page. |
-| 10 | [The Rule](10-the-rule.md) | Kennedy without the marble. |
-| 11 | [Hot / Cold](11-hot-cold.md) | Two temperatures, one show. |
-| 12 | [Thumb](12-thumb.md) | She will not rotate the phone. |
-| 13 | [The Door](13-the-door.md) | The show is the door. |
-| 14 | [No Jersey](14-no-jersey.md) | Relief. Nobody makes you pick a team. |
-| 15 | [01 · 02 · 03](15-spine.md) | Listen. Trust. Act. |
-
 ## Hard fail (read `_shared.md`)
 
 Do not contrast service against ordinary work in headlines or treatments. Do not restore rejected taglines. Host name is **Jerremy**. Avatar is **Jill**. AI proposes; humans decide.
 
 ## Changelog
 
+- v1.1 — 2026-08-30 — Phone and desktop stills of each living mock, embedded in every brief.
 - v1.0 — 2026-08-30 — Fifteen full briefs from the living-mock bake-off, copy-locked to stone v1.5.

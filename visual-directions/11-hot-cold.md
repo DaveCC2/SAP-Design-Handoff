@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#c45c26`  
 **Register:** Two friends in productive tension. Do not blend the voices.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![Hot / Cold — phone](stills/11-hot-cold-phone.jpg)
+
+**Desktop (1280×800)**
+
+![Hot / Cold — desktop](stills/11-hot-cold-desktop.jpg)
+
 ---
 
 ## Feeling

@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#e6dcc8`  
 **Register:** A serious woman, a real agenda, 9pm, no carnival.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![Briefing — phone](stills/06-briefing-phone.jpg)
+
+**Desktop (1280×800)**
+
+![Briefing — desktop](stills/06-briefing-desktop.jpg)
+
 ---
 
 ## Feeling

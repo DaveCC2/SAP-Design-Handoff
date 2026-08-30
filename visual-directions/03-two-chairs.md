@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#1e3a5f`  
 **Register:** You walked into the room mid-conversation.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![Two Chairs — phone](stills/03-two-chairs-phone.jpg)
+
+**Desktop (1280×800)**
+
+![Two Chairs — desktop](stills/03-two-chairs-desktop.jpg)
+
 ---
 
 ## Feeling

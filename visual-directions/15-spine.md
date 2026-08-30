@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#111111`  
 **Register:** A cold visitor does not want the manifesto. They want the one episode that proves you see them. Then, when they're ready, one act.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![01 · 02 · 03 — phone](stills/15-spine-phone.jpg)
+
+**Desktop (1280×800)**
+
+![01 · 02 · 03 — desktop](stills/15-spine-desktop.jpg)
+
 ---
 
 ## Feeling

@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#e8e4dc`  
 **Register:** One breath. That's the whole pitch.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![The Sentence — phone](stills/04-the-sentence-phone.jpg)
+
+**Desktop (1280×800)**
+
+![The Sentence — desktop](stills/04-the-sentence-desktop.jpg)
+
 ---
 
 ## Feeling

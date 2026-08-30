@@ -5,6 +5,19 @@ Load `_shared.md` first.
 **Chip:** `#f0f0ec`  
 **Register:** Sunday night, in bed, thumb ready.
 
+
+## Still
+
+First viewport of the living mock. Real wordmark and headshots. v1.5 copy.
+
+**Phone (390×844)**
+
+![Thumb — phone](stills/12-thumb-phone.jpg)
+
+**Desktop (1280×800)**
+
+![Thumb — desktop](stills/12-thumb-desktop.jpg)
+
 ---
 
 ## Feeling
