@@ -218,7 +218,7 @@ Podcast handles are the priority. Host handles included for footer / about.
 - **Linktree (bio):** https://linktr.ee/sapod
 - **Single share / listen:** https://solving-americas.captivate.fm/listen
 - **Apple Podcasts:** https://apple.co/3DO0AB6
-- **Spotify:** https://open.spotify.com/show/3aZFy5yNOjuvk1LiWOeXeS
+- **Spotify:** https://open.spotify.com/show/3aZFy5yNOjuvk1LiWOrXeS
 - **Amazon Music:** https://music.amazon.com/podcasts/c40351d4-883b-4e18-a858-f42de8213613/solving-americas-problems
 
 ### Hosts (secondary)
