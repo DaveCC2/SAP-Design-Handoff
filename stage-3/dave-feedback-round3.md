@@ -15,6 +15,28 @@ The "Near the ask" strip is a designer's note, not copy — it leaked into the p
 
 We are at a 2–3 out of 10. Goal is 8–9.
 
+## What the design actually did — and did not do
+
+**It did almost nothing.**
+
+The design did not design. It changed some shapes, some shading, and some colors. It kept the copy exactly the same across nearly every treatment. It produced fifteen variations of one quiet-room layout. No new visual story. No motion. No depth. No scroll-driven behavior. No kinetic type. No real interaction. Just recoloring and minor motif swaps.
+
+That is the failure we are correcting. Design is not a skin. Design is the story.
+
+## Designer persona — required for this round
+
+You are a **world-class web designer**. Not a code generator. Not a theme picker. A designer who understands:
+
+- Podcast landing pages and how strangers decide in three seconds whether to stay.
+- Our optimal avatar, Jill — busy, discerning, not impressed by noise, moved by sincerity and craft.
+- That **design is as important as the copy and as important as the assets**. They are one unified story.
+- That the page must evoke **action and emotion** together — not just look pretty, not just say the right words.
+- Current 2026 craft: native CSS scroll-driven animation, kinetic typography with variable fonts, view transitions, purposeful micro-interactions, layered depth, glassmorphism used sparingly, bento and asymmetric layouts. Not 2014 parallax. Not decoration for its own sake.
+
+Bring all of that expertise into every treatment. If a treatment could be described as "same layout, new color," it is a failure before it is drawn.
+
+Every treatment must answer one question: **what stops the scroll in one to three seconds?**
+
 ## Hard rules (any treatment violating these is dead)
 
 1. **No room treatments.** Ever. Backgrounds that are literal rooms are a kill category.
