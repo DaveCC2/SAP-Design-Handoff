@@ -1,11 +1,11 @@
-# Build Manifest v1 — Solving America's Problems (Podcast)
+# Build Manifest — Solving America's Problems (Podcast)
 
-**Version:** 1.6
+**Version:** 1.7
 **Created:** 2026-08-30
 **Updated:** 2026-08-30
 **Owner:** Dave Conley
 **Status:** Ready for Claude Design / Grok Build handoff
-**Companion file:** `rosetta-stone.md` (v1.3, 2026-08-29) — load it from this repo. It is the source of truth.
+**Source of truth:** `rosetta-stone.md` in this repo — load it. It is a pointer to the latest stone in Peters-Brain. Do not version-pin it here. The stone is the latest; this manifest points at it.
 
 ---
 
@@ -259,9 +259,3 @@ Design decides which frames to use. Do not pick a single official headshot unles
 4. **The specific action** in Block 5 — what does a serious person do this week?
 5. **Dive-deeper links** — newsletter URL, resources link. Social handles are locked in Section 9.
 6. **Visual direction** — after Claude generates 15, Dave picks against Jill in the chair.
-
----
-
-## Appendix — Rosetta Stone
-
-The full source of truth is the sibling file `rosetta-stone.md` (v1.3) in this repo. Load it. If this manifest and the stone conflict, the stone wins — update the manifest, not the stone.
