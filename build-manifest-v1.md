@@ -26,7 +26,7 @@ This is the working handoff package. Load this file first, then load `rosetta-st
 ## 1. Identity block (read this first)
 
 **Company:** Solving America's Problems (podcast)
-**Elevator pitch:** The weekly podcast that turns real conversations about America's toughest issues into a movement — built by people who believe the best and brightest should serve their country, not just their careers.
+**Elevator pitch:** The weekly podcast that turns real conversations about America's toughest issues into a movement — built by people who believe the best and brightest belong in public life, not just finance or tech.
 **Tagline:** America's Opportunities: From Conversation to Candidacy
 **Mission in one breath:** Real conversations → community → action. The show is the door; the movement is the product.
 **Co-hosts:** Jerremy (two r's) — on-mic lead, warm, everyman. Dave Conley — producer, cold-analytical, the rigor underneath.
