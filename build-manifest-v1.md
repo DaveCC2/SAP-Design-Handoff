@@ -235,6 +235,7 @@ All logos and headshots live in this GitHub repo. Nothing is fetched from Google
 
 ### Logos
 In-repo at `companies/podcast/assets/logos/` (verified 2026-08-30).
+- `companies/podcast/assets/logos/sap-logo-transparent.png` — **preferred.** Transparent PNG of the wordmark, no plate. Use this on any ground.
 - `companies/podcast/assets/logos/SAP Logo.jpeg`
 - `companies/podcast/assets/logos/SAP Logo Copy.jpeg`
 - `companies/podcast/assets/logos/SAP Logo smaller.jpeg`

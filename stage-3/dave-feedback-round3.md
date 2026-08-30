@@ -3,6 +3,8 @@
 **Date:** 2026-08-30
 **Status:** Captured in chat, now committed so any future build can load it without relying on chat memory.
 
+**Next chat starts at [`START-HERE.md`](START-HERE.md).** Round-two stills (the set this verdict is about) live in [`../stage-2/visual-directions/`](../stage-2/visual-directions/).
+
 ## The honest verdict
 
 Disappointing. Fifteen rooms, one layout. The only real differences were headshot choice and color scheme. No visual storytelling, no motion, no depth, no scroll story. It read the brief as decoration instead of constraints.
@@ -72,10 +74,13 @@ Write a new brief for **eight to ten treatments**, not fifteen, not three. Somew
 Every treatment must answer: **what stops the scroll in one to three seconds?**
 
 Load these files first:
-1. `stage-3/dave-feedback-round3.md` (this file)
-2. `stage-2/dave-notes.md`
-3. `rosetta-stone.md`
-4. `visual-directions/_shared.md` and the strong examples (01, 02, 07, 11, 03)
+1. `stage-3/START-HERE.md`
+2. `stage-3/dave-feedback-round3.md` (this file)
+3. `stage-3/copy-lock.md` (wins over `visual-directions/_shared.md` on public copy)
+4. `stage-2/dave-notes.md`
+5. `rosetta-stone.md`
+6. Round-1 strong examples: `visual-directions/` 01, 02, 07, 11, 03
+7. Round-2 keep stills: `stage-2/visual-directions/` 11, 14, 10, 06, 03
 
 Do not load Claude's `design-briefs-v1` folder. Do not load any prior chat. Fresh context, full memory from the files.
 
