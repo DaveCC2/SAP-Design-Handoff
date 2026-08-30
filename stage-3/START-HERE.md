@@ -6,15 +6,17 @@ A new design chat loads this file first. Then the files listed below. Do not loa
 
 **Count lock (2026-08-30):** Six treatments. Not fifteen. Not three. Not eight-to-ten.
 
+**Stone:** v1.6. Hard stop on “careers” as a target — never shade ordinary jobs. Contrast is political class vs. populace; Wall Street / Silicon Valley are competing destinations for talent.
+
 ---
 
 ## Load order
 
 1. **This file**
 2. [`dave-feedback-round3.md`](dave-feedback-round3.md) — Dave's verdict on the 15 rooms. Hard rules, keeps, kills, 2026 techniques, designer persona.
-3. [`copy-lock.md`](copy-lock.md) — public copy, funnel, roles, bios. **Wins** if it conflicts with `visual-directions/_shared.md`.
+3. [`copy-lock.md`](copy-lock.md) — public copy, funnel, roles, bios. Locked to stone 1.6 identity. **Wins** if it conflicts with `visual-directions/_shared.md`. Loses to the stone on identity.
 4. [`../stage-2/dave-notes.md`](../stage-2/dave-notes.md) — how we got here (Claude 1A–1I + Grok round 1 walk).
-5. [`../rosetta-stone.md`](../rosetta-stone.md) — pointer to Peters-Brain stone (currently v1.5). Then the stone itself if the Peters-Brain repo is reachable.
+5. [`../rosetta-stone.md`](../rosetta-stone.md) — pointer to Peters-Brain stone (**v1.6**). Then load `companies/podcast/rosetta-stone.md` in DaveCC2/Peters-Brain.
 6. [`../build-manifest-v1.md`](../build-manifest-v1.md) — page spec, **long bios**, social, assets.
 7. Round-1 *strong examples* only (not the whole set):
    - [`../visual-directions/01-sunday-night.md`](../visual-directions/01-sunday-night.md)
@@ -88,4 +90,3 @@ If a gap blocks a design decision, flag it. Do not guess the fills above.
 ## Round 3 output (this round)
 
 Six treatments live in [`treatments/`](treatments/). Named by the visual move. Stills in [`treatments/stills/`](treatments/stills/). This is not the production site.
-

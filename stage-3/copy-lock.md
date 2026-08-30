@@ -1,23 +1,49 @@
 # Copy lock — next round
 
 If this file conflicts with `visual-directions/_shared.md`, **this file wins**.
-If this file conflicts with the stone on identity, the stone wins — except **public page copy**, which is locked here.
+If this file conflicts with the stone on identity, **the stone wins**. Public page copy is locked here *to the stone's current identity lines*, not to a prior round.
 
-Round-1 `_shared.md` truncated the H1 to dodge the careers clause. Round 2 restored the sentence verbatim. Round 3 keeps it verbatim. Do not re-truncate.
+**Stone version:** 1.6 (source: `companies/podcast/rosetta-stone.md` in DaveCC2/Peters-Brain).
+
+v1.6 killed “not just their careers.” That clause is dead copy. Do not restore it. Do not truncate the new sentence to dodge length.
+
+---
+
+## Hard stop (stone rule 9) — read before writing a line
+
+Never contrast public service with ordinary jobs or careers. People with jobs and careers are respected — that is not the enemy. The only contrast allowed is the **political class** versus the populace: a political career is the disease; Wall Street and Silicon Valley are the competing destinations for talent. Any copy, headline, or visual treatment that reads as shade on working people is a fail.
+
+---
+
+## Locked identity — verbatim from stone 1.6
+
+**Core Focus**
+
+> A weekly podcast that turns real conversations about America's toughest issues into a movement — built by people who believe the best and brightest should serve their country in government, not chase Wall Street or Silicon Valley.
+
+**Tagline**
+
+> America's Opportunities: From Conversation to Candidacy
+
+**Elevator Pitch**
+
+> Solving America's Problems is the weekly podcast that turns real conversations about America's toughest issues into a movement — built by people who believe the best and brightest should serve their country in government, not chase Wall Street or Silicon Valley.
 
 ---
 
 ## Locked sentence (H1) — verbatim
 
-> The weekly podcast that turns real conversations about America's toughest issues into a movement — built by people who believe the best and brightest should serve their country, not just their careers.
+The public H1 is the elevator without the show-name prefix (the wordmark already names it):
 
-Do not paraphrase. Do not split it. Do not lead with a shortened version.
+> The weekly podcast that turns real conversations about America's toughest issues into a movement — built by people who believe the best and brightest should serve their country in government, not chase Wall Street or Silicon Valley.
 
-**Careers rule:** the sentence stays. Any *new* line that treats "careers" as a jab at the listener is an automatic fail. The only approved bridge, used as tone not slogan:
+Do not paraphrase. Do not split it. Do not lead with a shortened version. Do not revert to “not just their careers.”
+
+**Political-class bridge** (tone, not slogan; statement about politicians, never about Jill):
 
 > Politicians treat it as a career; we don't.
 
-That is a statement about politicians, not about Jill.
+Do not put the tagline in the hero as a second headline. The hook already echoes “conversation to candidacy.” One decision per viewport.
 
 ---
 
@@ -25,7 +51,7 @@ That is a statement about politicians, not about Jill.
 
 > Conversation becomes a movement
 
-Echoes the stone's "conversation to candidacy" without copying it. Alliteration is a nice-to-have, not required.
+Echoes the stone's “conversation to candidacy” without copying it. Alliteration is a nice-to-have, not required.
 
 Every other round-2 hook is dead: "You're invited," "Still here," "Come in," "Before Monday," "This hour includes you," "Listen," "Come as you are," "Start the week," "Talk then act," "They showed up."
 
@@ -94,7 +120,7 @@ Design may pick among the full headshot folders. Do not invent a face. Do not ci
 - Childish / cartoonish treatments
 - Guests above the button
 - "Near the ask" as visible copy
-- Dead slogans: Service over career / Where Service Beats Career / beat your career / any shade on people with jobs
+- Dead slogans: Service over career / Where Service Beats Career / beat your career / not just their careers / any shade on people with jobs
 - Jeremy (one r)
 - Invented guests, quotes, testimonials, results
 - Fake people in proof slots

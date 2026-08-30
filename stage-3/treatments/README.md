@@ -6,6 +6,8 @@
 
 Jill is the buyer. Primary metric: tap **Start listening.** Secondary: one more act after subscribe.
 
+**Stone:** v1.6. Hard stop — never contrast public service with ordinary jobs or careers. Contrast is the political class versus the populace. Wall Street and Silicon Valley are competing destinations for talent.
+
 ## The six
 
 | # | Move | What stops the scroll | Why it wins with Jill |
@@ -20,8 +22,9 @@ Jill is the buyer. Primary metric: tap **Start listening.** Secondary: one more 
 ## Shared lock (every treatment)
 
 - Hook: **Conversation becomes a movement**
+- Tagline (identity, not a second hero headline): **America's Opportunities: From Conversation to Candidacy**
 - Button: **Start listening.** → https://solving-americas.captivate.fm/listen
-- H1: locked sentence, verbatim
+- H1 (stone 1.6 elevator, wordmark already names the show): **The weekly podcast that turns real conversations about America's toughest issues into a movement — built by people who believe the best and brightest should serve their country in government, not chase Wall Street or Silicon Valley.**
 - Roles: Jerremy Alexander Newsome, co-host and candidate · Dave Conley, co-host and producer
 - Funnel order: Start listening → when you're ready → social → resources (coming soon) → this week (last three from RSS) → before you ask → bios → guests at the bottom
 - Transparent wordmark. Real headshots only. Sitting keep / standing keep as noted per treatment.
@@ -42,4 +45,4 @@ Jill is the buyer. Primary metric: tap **Start listening.** Secondary: one more 
 
 ## Hard-fail (any treatment)
 
-No room photographs. No circular motifs. No green. No childish treatments. No guests above the button. No “Near the ask” as copy. No shade on people with jobs. No Jeremy. No invented guests or testimonials. No email in the hero. No two competing CTAs above the fold. No flag / marble / eagle. No navy-and-gold consulting civic. No pod-bro / rally / jersey. No desktop-only. No 2014 parallax that hijacks scroll.
+No room photographs. No circular motifs. No green. No childish treatments. No guests above the button. No “Near the ask” as copy. No shade on people with jobs. No “not just their careers.” No Jeremy. No invented guests or testimonials. No email in the hero. No two competing CTAs above the fold. No flag / marble / eagle. No navy-and-gold consulting civic. No pod-bro / rally / jersey. No desktop-only. No 2014 parallax that hijacks scroll.
