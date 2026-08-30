@@ -64,6 +64,7 @@ Every treatment must answer one question: **what stops the scroll in one to thre
 - Role tags mandatory: co-host and candidate / co-host and producer.
 - The funnel order: Start listening → "when you're ready" (email + optional phone popup) → social → resources (coming soon) → this week (rolling last three episodes from the short link) → before you ask → bios → guests at the bottom.
 - "This week" as a rolling list of the last three episodes.
+- **Eye-drawing to the single act** (from Grok 07): the design must make the one specific act a serious person can take the thing the eye finds first. Prominent, not buried. This is a standing visual principle, not a one-off.
 
 ## Kills
 
